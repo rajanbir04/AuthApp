@@ -1,0 +1,7 @@
+com\nagarro\userauthentication\entity\User.class
+com\nagarro\userauthentication\controller\LogoutController.class
+com\nagarro\userauthentication\util\HibernateUtil.class
+com\nagarro\userauthentication\dao\LoginandSignUpDao.class
+com\nagarro\userauthentication\controller\LoginandSignUpController.class
+com\nagarro\userauthentication\config\MvcConfiguration.class
+com\nagarro\userauthentication\config\AppInitializer.class
